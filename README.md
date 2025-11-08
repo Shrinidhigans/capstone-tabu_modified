@@ -730,7 +730,7 @@ MIT License - Free for commercial and personal use
   - Core algorithm implementation
   - Web platform architecture  
   - Performance optimization
-  - 
+    
 - **[Shrinidhi Ganesan](https://github.com/Shrinidhigans)** – *Researcher Contributor*
   - Conducted algorithmic research, contributed to the theoretical foundation and comparative analysis of Tabu Search with other metaheuristics (GA, ACO, SA)
 
